@@ -1,7 +1,7 @@
 # Substratum_Rescue
 Fix Bootloop On Substratum
 
-**step flash**
+# step flash
 
 •reboot to recovery
 
