@@ -7,6 +7,6 @@ Fix Bootloop On Substratum
 
 •flash module on recovery
 
-•enjoy
+•reboot system
 
 <a href="https://t.me/cloudpitchblack"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
